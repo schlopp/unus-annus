@@ -7,3 +7,5 @@ point
 
 this entire project is UA themed so most of the people that come across this wont understand it but for the people who do i hope you like it!
 memento mori fellow unuses and annuses 
+
+<!-- good luck, greetings from spooky schlöpp#6969 on discord -->
